@@ -12,3 +12,18 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+.btn, .btn-large {
+  text-decoration: none;
+  color: #fff;
+  background-color: #414b82;
+  text-align: center;
+  letter-spacing: .5px;
+  -webkit-transition: .2s ease-out;
+  -moz-transition: .2s ease-out;
+  -o-transition: .2s ease-out;
+  -ms-transition: .2s ease-out;
+  transition: .2s ease-out;
+  cursor: pointer; }
+  .btn:hover, .btn-large:hover {
+    background-color: #414b82; }
